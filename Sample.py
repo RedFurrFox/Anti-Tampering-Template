@@ -20,3 +20,4 @@ if __name__ == "__main__":
             main()
         else:
             print(">>> Script Tampering Has Been Detected <<<\n\n - Tampering Protection v1.0 Detected That This Script Has Been Tampered In Some Way!!!")
+            exit()
