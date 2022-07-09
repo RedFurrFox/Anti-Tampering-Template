@@ -4,7 +4,7 @@ import os
 
 
 # Some Required Dictionaries
-Raw_Url_Pastebin_Link = ""  # Example "https://pastebin.com/raw/HBpLcMCd"
+Raw_Url_Pastebin_Link = ""  # Example Of What Raw URL looks Like: "https://pastebin.com/raw/HBpLcMCd"
 Timeout = 5  # In Seconds
 Headers = {'User-Agent': 'Script Tampering Checker (BOT)'}
 
