@@ -19,6 +19,12 @@ Simple tamper detector if your script has been modified in any way! (Works best 
 
 ---
 
+## Side Notes:
+ - As usuall... I am not responsible for any liable causes and/or damages caused by the misusage of this script. (my code, your shits)
+ - Do whatever you like on the template I provide, Just make sure you tag me or atleast give credits to me.
+
+---
+
 ## Join Our Socials: 
 
  - ["Android Hacker PH On Facebook"](https://www.facebook.com/groups/1778790372291663)
