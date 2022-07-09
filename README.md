@@ -38,5 +38,4 @@ Simple tamper detector if your script has been modified in any way! (Works best 
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/RedFurrFox/Anti-Tampering-Template">
     <img alt="GitHub" src="https://img.shields.io/github/license/RedFurrFox/Anti-Tampering-Template">
     <img alt="GitHub watchers" src="https://img.shields.io/github/watchers/RedFurrFox/Anti-Tampering-Template?style=social">
-    <img align="right" src="https://komarev.com/ghpvc/?username=RedFurrFox">
 </p>
