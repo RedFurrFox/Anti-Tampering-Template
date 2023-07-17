@@ -47,4 +47,6 @@ Simple tamper detector if your script has been modified in any way! (Works best 
     <img alt="GitHub watchers" src="https://img.shields.io/github/watchers/RedFurrFox/Anti-Tampering-Template?style=social">
 </p>
 
+---
+
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=[RedFurrFox].Anti-Tampering-Template)
