@@ -32,7 +32,7 @@ if __name__ == "__main__":
         try:
 
             # Compares This Local Python File To The "Raw_Url_Pastebin_Link" As Text. If Valid, Then It Will Just Go To "main" Function
-            if read != requests.get(url=Raw_Url_Pastebin_Link, timeout=Timeout).text:
+            if read == requests.get(url=Raw_Url_Pastebin_Link, timeout=Timeout).text:
                 main()
             # If Not, It Will Show A Problem And Terminate The Script.
             else:
