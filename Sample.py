@@ -68,11 +68,11 @@ if __name__ == "__main__":
 
 
 """
-This Script Works The Best When This Is Obfuscated So No One Will Try To Modify/Reverse-engineer Your Code.
+This Script Works Best When It Is Obfuscated So No One Will Try To Modify/Reverse-engineer Your Code.
 (Sorry For My Bad English... ( I Am Trying My Best To Explain How This Script Works For You To Use It :) ))
 
 Having Issues For This Template? Create An Issue Over Here "https://github.com/RedFurrFox/Anti-Tampering-Template/issues"
 I Will Try My Best To Fix Your Issue As Soon As Possible.
 
-Created By: RedFurrFox On Github
+Created By: RedFurrFox On GitHub
 """
